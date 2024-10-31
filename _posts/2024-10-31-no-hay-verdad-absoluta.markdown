@@ -11,5 +11,3 @@ fig-caption: # Add figcaption (optional)
 Frase que me hace recordar que no hay verdad absoluta, que cada uno de nosotros tenemos nuestra propia verdad basado en nuestras experiencias y la de nuestro entorno cercano.
 
 Amadeo Llados fue la persona que me interiorizó esta frase viendo sus videos en Youtube.
-
-![I and My friends]({{site.baseurl}}/assets/img/frase-marco-aurelio.jpeg)
