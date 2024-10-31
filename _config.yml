@@ -13,7 +13,7 @@ site-twitter: #if your site has a twitter account, enter it here
 # Author Settings
 author: Jorge Toledo # add your name
 author-img: jorge-toledo.jpeg # add your photo
-about-author: This is my personal blog where I’ll be sharing all my thoughts in English and Spanish about different topics such as personal growing, personal branding, good habits, English learning, tech stuffs, digital minimalism, pragmatic topics and counter intuitive thinking. # add description
+about-author: This is my personal blog where I’ll be sharing all my thoughts in English and Spanish. # add description
 social-twitter: # add your Twitter handle
 social-instagram: georgewashtol # add your Facebook handle
 social-github: georgewashtol # add your Github handle
