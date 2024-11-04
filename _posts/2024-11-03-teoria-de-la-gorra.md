@@ -14,11 +14,11 @@ Bueno, pues me he dado cuenta (y aún sigo en investigación) que existen manera
 
 Especificamente cuando uso gorra me doy cuenta de eso, voy hacerlo simple: 
 
-si yo estoy SIN gorra mis ojos van a tener vision de todo el alrededor de mi entorno, es decir que por mas que nuestra mirada está hacia el frente, inconscientemente tambien estamos percibiendo lo que hay a nuestro lado izquierdo, derecho, diagonal, arriba y abajo
+si yo estoy **SIN** gorra mis ojos van a tener vision de todo el alrededor de mi entorno, es decir que por mas que nuestra mirada está hacia el frente, inconscientemente tambien estamos percibiendo lo que hay a nuestro lado izquierdo, derecho, diagonal, arriba y abajo
 
 Eso quiere decir que nuestro cerebro está haciendo uso de energia para decodificar estas imagenes, formas y colores, aunque no queramos eso pasa...
 
-y cuando estoy CON gorra no le doy oportunidad a mi visión (inconsciente) a ver hacia la parte de arriba, eso quiere decir que voy a poder seguir percibiendo lo que tengo al frente, al lado izquierdo, al lado derecho y los diagonales, pero NO arriba, de esta manera estoy optimizando el procesamiento de mi cerebro a angulos innecesarios que no quiero y no me aportan nada ver...
+y cuando estoy **CON** gorra no le doy oportunidad a mi visión (inconsciente) a ver hacia la parte de arriba, eso quiere decir que voy a poder seguir percibiendo lo que tengo al frente, al lado izquierdo, al lado derecho y los diagonales, pero **NO** arriba, de esta manera estoy optimizando el procesamiento de mi cerebro a angulos innecesarios que no quiero y no me aportan nada ver...
 
 Definivamente cuando uso gorra me siento mas concentrado :D tambien me gustaría hacer control de las formas de los elementos de mi entorno ya que cada forma rectangular, cuadrada, circular, triangular, hexagonal tiene un grado de complejidad que nuestro cerebro requiere para decodificarla.
 
