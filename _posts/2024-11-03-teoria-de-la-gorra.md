@@ -22,7 +22,7 @@ y cuando estoy **CON** gorra no le doy oportunidad a mi visión (inconsciente) a
 
 Definivamente cuando uso gorra me siento mas concentrado :D tambien me gustaría hacer control de las formas de los elementos de mi entorno ya que cada forma rectangular, cuadrada, circular, triangular, hexagonal tiene un grado de complejidad que nuestro cerebro requiere para decodificarla.
 
-##### Que dice ChatGPT al respecto:
+### Que dice ChatGPT al respecto:
 
 Usar una gorra reduce la cantidad de información visual que tu cerebro debe procesar en el rango superior de tu campo de visión. Una gorra estándar con visera bloquea entre 15 y 30 grados de visión hacia arriba, lo que ayuda a optimizar el procesamiento de la vista al eliminar estímulos innecesarios en ese ángulo.
 
