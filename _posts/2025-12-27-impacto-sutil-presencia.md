@@ -2,7 +2,7 @@
 layout: post
 title: El impacto sutil de la presencia
 date: 2025-12-27
-description: No es necesario realizar actos grandiosos o ser famoso para tener impacto. La energía que trae un alma avanzada es suficiente: El impacto puede ser muy sutil, pero muy completo [23]. Un hombre sabio puede simplemente "dar una vuelta por allí, y allá donde vaya la gente se beneficiará de su presencia" [24]. Su presencia es sanadora [24]. El alma puede influir sobre la gente solo con su presencia, o por su energía [25]. Esta energía se transmite incluso por el cable del teléfono, o simplemente al pasar junto a la gente en un supermercado [26].
+description: No es necesario realizar actos grandiosos o ser famoso para tener impacto. La energía que trae un alma avanzada es suficiente. El impacto puede ser muy sutil, pero muy completo [23]. Un hombre sabio puede simplemente "dar una vuelta por allí, y allá donde vaya la gente se beneficiará de su presencia" [24]. Su presencia es sanadora [24]. El alma puede influir sobre la gente solo con su presencia, o por su energía [25]. Esta energía se transmite incluso por el cable del teléfono, o simplemente al pasar junto a la gente en un supermercado [26].
 img: sutil-presencia.png
 ---
 Su pregunta toca el núcleo del propósito de las almas voluntarias que han venido a la Tierra en este momento crucial de transición dimensional. Según las canalizaciones de Dolores Cannon, ser un hombre sabio que impacta al mundo (o que cumple con su misión) no se trata de obtener fama o riqueza, sino de *elevar la propia frecuencia vibratoria* y *extender la luz* para ayudar en la evolución de la conciencia humana [1-3].
