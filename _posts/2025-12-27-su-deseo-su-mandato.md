@@ -2,10 +2,10 @@
 layout: post
 title: Su deseo es su mandato
 date: 2025-12-27
-description: La serie Su Deseo Es Su Mandato es una grabación original de audios de una conferencia privada y exclusiva de dos días que tuvo lugar en un lugar no revelado de los Alpes suizos. Esta conferencia, organizada por Kevin Trudeau en 2009, reunió a personas de alto nivel como millonarios, multimillonarios, funcionarios de gobierno, líderes de países, miembros de familias reales, políticos y capitanes de la industria.
+description: La serie su deseo es su mandato es una grabación original de audios de una conferencia privada y exclusiva de dos días que tuvo lugar en un lugar no revelado de los Alpes suizos. Esta conferencia, organizada por Kevin Trudeau en 2009, reunió a personas de alto nivel como millonarios, multimillonarios, funcionarios de gobierno, líderes de países, miembros de familias reales, políticos y capitanes de la industria.
 img: su-deseo-su-mandato.jpg
 ---
-La serie Su Deseo Es Su Mandato es una grabación original de audios de una conferencia privada y exclusiva de dos días que tuvo lugar en un lugar no revelado de los Alpes suizos.
+La serie su deseo es su mandato es una grabación original de audios de una conferencia privada y exclusiva de dos días que tuvo lugar en un lugar no revelado de los Alpes suizos.
 Esta conferencia, organizada por Kevin Trudeau en 2009, reunió a personas de alto nivel como millonarios, multimillonarios, funcionarios de gobierno, líderes de países, miembros de familias reales, políticos y capitanes de la industria.
 
 También asistieron miembros de sociedades secretas exclusivas, incluyendo la Hermandad (de la que Trudeau fue miembro durante 30 años), los Masones, los Illuminati y Skull & Bones.

@@ -8,17 +8,15 @@ description: > # this means to ignore newlines until "baseurl:"
 permalink: ':title/'
 baseurl: "/flexible-jekyll" # the subpath of your site, e.g. /blog
 url: "https://georgewashtol.com" # the base hostname & protocol for your site, e.g. http://example.com
-site-twitter: #if your site has a twitter account, enter it here
 
 # Author Settings
-author: Jorge Toledo # add your name
-author-img: jorge-toledo.jpeg # add your photo
-about-author: Este es mi blog personal donde compartiré todos mis pensamientos y conocimientos. # add description
-social-twitter: # add your Twitter handle
-social-instagram: georgewashtol # add your Facebook handle
-social-github: georgewashtol # add your Github handle
-social-linkedin: georgewashtol # add your Linkedin handle
-social-email: georgewashtol@gmail.com # add your Email address
+author: Jorge Toledo
+author-img: jorge-toledo.jpeg
+about-author: Este es mi blog personal donde comparto algunos de mis pensamientos y conocimientos. # add description
+social-instagram: georgewashtol
+social-github: georgewashtol
+social-linkedin: georgewashtol
+social-email: georgewashtol@gmail.com
 
 # Disqus
 discus-identifier: mr-brown # add your discus identifier

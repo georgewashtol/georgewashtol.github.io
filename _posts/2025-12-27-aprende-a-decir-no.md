@@ -6,13 +6,11 @@ description: Aprende a decir "no". No lo haré, no quiero, no puedo. Deja de int
 img: gallina-no.png
 ---
 
+> Aprende a decir "no". No lo haré, no quiero, no puedo. Deja de intentar complacer a todos. Priorizar tus propias necesidades y límites no es egoísta. No estás aquí para cumplir las expectativas de los demás todo el tiempo. Decir "no" no es señal de desconsideración, sino de autoconciencia y autorrespeto. Se trata de establecer límites saludables y evitar sobrecargarte con compromisos y responsabilidades que no se alinean con tus objetivos. Intentar constantemente complacer a los demás a menudo significa desagradarte a ti mismo. Y, al final, eres tú quien sufre las consecuencias. La verdadera esencia de la vida reside en encontrar el equilibrio entre cuidar a los demás y cuidarte a ti mismo. Por lo tanto, no tengas miedo de ser honesto contigo mismo y con los demás. Recuerda que decir "no" es un acto de valentía y autoestima. Es una forma de proteger tu energía y dirigirla hacia lo que realmente importa. Tu bienestar siempre debe ser lo primero. Priorízate.
+
 <video controls width="100%">
-  <source src="/assets/video/gallina-no.mp4" type="video/mp4">
-  Tu navegador no soporta video HTML5.
+  <source src="/assets/video/gallina-no.mp4" type="video/mp4">  
 </video>
 
 ### Original Translation:
 > Aprenda a dizer "não". Não vou, não quero, não posso. Pare de querer agradar todo mundo. Não é egoísmo priorizar suas próprias necessidades e limites. Você não está aqui para atender as expectativas alheias o tempo todo. Dizer "não", não é sinônimo de falta de consideração, mas sim de autoconhecimento e respeito por si mesmo. É estabelecer fronteiras saudáveis e evitar se sobrecarregar com compromissos e responsabilidades que não condizem com seus objetivos. Agradar constantemente os outros, muitas vezes significa desagradar a si mesmo. E, no final das contas, quem sofre as consequências é você. A verdadeira essência da vida reside em encontrar um equilíbrio entre cuidar dos outros e cuidar de si mesmo. Portanto, não tenha medo de ser honesto consigo mesmo e com os outros. Lembre-se de que dizer "não" é um ato de coragem e autovalorização. É uma forma de proteger sua energia e direcioná-la para o que realmente importa. Seu bem-estar deve estar sempre em primeiro lugar. Se priorize.
-
-### Spanish Translation:
-> Aprende a decir "no". No lo haré, no quiero, no puedo. Deja de intentar complacer a todos. Priorizar tus propias necesidades y límites no es egoísta. No estás aquí para cumplir las expectativas de los demás todo el tiempo. Decir "no" no es señal de desconsideración, sino de autoconciencia y autorrespeto. Se trata de establecer límites saludables y evitar sobrecargarte con compromisos y responsabilidades que no se alinean con tus objetivos. Intentar constantemente complacer a los demás a menudo significa desagradarte a ti mismo. Y, al final, eres tú quien sufre las consecuencias. La verdadera esencia de la vida reside en encontrar el equilibrio entre cuidar a los demás y cuidarte a ti mismo. Por lo tanto, no tengas miedo de ser honesto contigo mismo y con los demás. Recuerda que decir "no" es un acto de valentía y autoestima. Es una forma de proteger tu energía y dirigirla hacia lo que realmente importa. Tu bienestar siempre debe ser lo primero. Priorízate.
