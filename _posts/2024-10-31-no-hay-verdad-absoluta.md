@@ -2,9 +2,8 @@
 layout: post
 title: No hay verdad absoluta
 date: 2024-10-02
-description: La reflexión sobre la falta de verdad absoluta destaca que nuestras percepciones son opiniones basadas en experiencias personales y contextos cercanos, inspirada por la frase de Marco Aurelio y los videos de Amadeo Llados. # Add post description (optional)
-img: frase-marco-aurelio.jpeg # Add image post (optional)
-fig-caption: # Add figcaption (optional)
+description: La reflexión sobre la falta de verdad absoluta destaca que nuestras percepciones son opiniones basadas en experiencias personales y contextos cercanos, inspirada por la frase de Marco Aurelio y los videos de Amadeo Llados.
+img: frase-marco-aurelio.jpeg
 ---
 “Todo lo que escuchamos es una opinión, no un hecho. Todo lo que vemos es una perspectiva, no es la verdad” - Marco Aurelio
 

@@ -2,9 +2,8 @@
 layout: post
 title: La teoría de la gorra 🧢
 date: 2024-11-03
-description: Me he dado cuenta de que usar una gorra optimiza el procesamiento visual de mi cerebro. Cuando estoy sin gorra, mis ojos captan estímulos de todo el entorno, incluso de ángulos superiores que no son necesarios. Esto implica que mi cerebro trabaja más para decodificar esas imágenes y formas. # Add post description (optional)
-img: teoria-gorra.png # Add image post (optional)
-fig-caption: # Add figcaption (optional)
+description: Me he dado cuenta de que usar una gorra optimiza el procesamiento visual de mi cerebro. Cuando estoy sin gorra, mis ojos captan estímulos de todo el entorno, incluso de ángulos superiores que no son necesarios. Esto implica que mi cerebro trabaja más para decodificar esas imágenes y formas.
+img: teoria-gorra.png
 ---
 Voy hablar en primera persona, ya que puede ser que a tí no te pase...
 
