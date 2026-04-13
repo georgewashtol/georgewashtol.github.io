@@ -26,9 +26,3 @@ Además, el libro abarca temas como la importancia de sentirse bien, hábitos y 
 Además del libro, existe un Manual de Trabajo que ofrece una guía paso a paso para aplicar los conceptos del audio, con el objetivo de pasar directamente a la acción y obtener resultados reales.
 
 Este manual busca ayudar a quienes escuchan la serie sin lograr concretar sus sueños, enfatizando que la mejor forma de aprender es haciendo.
-
-### Aquí dejo los links de los 14 audios en Youtube o Spotify como sea de su preferencia:
-
-[Youtube](https://www.youtube.com/playlist?list=PLKJUOPL-ptnpKLyeMiV0NG47XoMCwJpZz)
-
-[Spotify](https://open.spotify.com/show/5B0ZfTWBycyg1RetnWYEDt?si=2337d4997e8d4839)
